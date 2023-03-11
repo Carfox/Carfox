@@ -1,36 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Carlos, a Computer Science Enginering Student 👨‍💻 since 2018 🚀</div>  
-  
 
-- 🔭 I’m currently working on [PoliEstresador](https://github.com/Carfox/poliestresador)  
-  
-
-- 🌱 I’m currently learning C++ and Python  
-  
-
-- ❓ Ask me about anything related to JAVA and F1 technologies  
-  
-
-- ⚡ Fun fact: Today is yesterday of tomorrow  
-  
+#"I like to make things" - Engineer
 
 <br/>  
-
-
-## My Skill Set  
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-</div>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
